@@ -1,0 +1,11 @@
+{
+  "condition": "alternative",
+  "terms": [
+    {
+      "condition": "match_tool",
+      "predicate": {
+        "item": "diamond_pickaxe"
+      }
+    }
+  ]
+}
