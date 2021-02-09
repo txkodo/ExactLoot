@@ -22,6 +22,10 @@
                       }
                     ]
                   }
+                },
+                {
+                  "condition": "minecraft:reference",
+                  "name": "exact_loot:wooden_pickaxe"
                 }
               ],
               "name": "minecraft:ender_chest"
@@ -37,7 +41,13 @@
                   "function": "minecraft:explosion_decay"
                 }
               ],
-              "name": "minecraft:obsidian"
+              "name": "minecraft:obsidian",
+              "conditions": [
+                {
+                  "condition": "minecraft:reference",
+                  "name": "exact_loot:wooden_pickaxe"
+                }
+              ]
             }
           ]
         }

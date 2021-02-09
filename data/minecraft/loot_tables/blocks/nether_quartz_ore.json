@@ -42,13 +42,13 @@
                   "function": "minecraft:explosion_decay"
                 }
               ],
+              "name": "minecraft:quartz",
               "conditions": [
                 {
                   "condition": "minecraft:reference",
-                  "name": "exact_loot:wooden_pickaxe_explosion"
+                  "name": "exact_loot:wooden_pickaxe"
                 }
-              ],
-              "name": "minecraft:quartz"
+              ]
             }
           ]
         }

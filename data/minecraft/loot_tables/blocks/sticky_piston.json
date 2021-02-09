@@ -11,7 +11,8 @@
       ],
       "conditions": [
         {
-          "condition": "minecraft:survives_explosion"
+          "condition": "minecraft:reference",
+          "name": "exact_loot:wooden_pickaxe_explosion"
         }
       ]
     }

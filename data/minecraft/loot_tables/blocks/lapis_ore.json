@@ -50,13 +50,13 @@
                   "function": "minecraft:explosion_decay"
                 }
               ],
+              "name": "minecraft:lapis_lazuli",
               "conditions": [
                 {
                   "condition": "minecraft:reference",
-                  "name": "exact_loot:stone_pickaxe_explosion"
+                  "name": "exact_loot:stone_pickaxe"
                 }
-              ],
-              "name": "minecraft:lapis_lazuli"
+              ]
             }
           ]
         }

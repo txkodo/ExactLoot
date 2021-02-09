@@ -6,7 +6,13 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:conduit"
+          "name": "minecraft:conduit",
+          "conditions": [
+            {
+              "condition": "minecraft:reference",
+              "name": "exact_loot:wooden_pickaxe"
+            }
+          ]
         }
       ]
     }

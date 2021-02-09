@@ -22,6 +22,10 @@
               }
             ]
           }
+        },
+        {
+          "condition": "minecraft:reference",
+          "name": "exact_loot:wooden_pickaxe"
         }
       ]
     }

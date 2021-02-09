@@ -6,13 +6,13 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "conditions": [
-            {
-              "condition": "minecraft:reference",
-              "name": "exact_loot:wooden_pickaxe_explosion"
-            }
-          ],
           "name": "minecraft:red_nether_brick_stairs"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:reference",
+          "name": "exact_loot:wooden_pickaxe_explosion"
         }
       ]
     }

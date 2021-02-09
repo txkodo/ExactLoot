@@ -53,13 +53,13 @@
                   "function": "minecraft:explosion_decay"
                 }
               ],
+              "name": "minecraft:redstone",
               "conditions": [
                 {
                   "condition": "minecraft:reference",
-                  "name": "exact_loot:iron_pickaxe_explosion"
+                  "name": "exact_loot:iron_pickaxe"
                 }
-              ],
-              "name": "minecraft:redstone"
+              ]
             }
           ]
         }
